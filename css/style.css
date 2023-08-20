@@ -22,7 +22,8 @@ body {
 .item-1 {
     /* grid-column-start: 2;
     grid-column-end: 4; */
-    grid-column: 1/-1;
+    /* grid-column: 1/-1; */
+    grid-column: one/three;
     /* grid-row-start: 1;
     grid-row-end: 3; */
     grid-row: 1/3;
